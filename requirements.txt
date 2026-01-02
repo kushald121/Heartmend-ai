@@ -4,3 +4,4 @@ agno>=2.2.10
 google-genai==1.9.0
 duckduckgo-search
 openai
+ddgs
